@@ -1,4 +1,4 @@
-# Automatation Script commit in Dev branch
+# Automatation Script commit in Dev branch and merge with main branch
 #!/bin/bash
 myname=shiva
 timestamp=$(date '+%d%m%Y-%H%M%S')
